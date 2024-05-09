@@ -1,0 +1,62 @@
+/* body{
+    background-color: #040D12;
+    
+} */
+.parent{
+    background-color: #040D12;
+}
+.innerdiv{
+    background-color: #61677A;
+    padding: 2em;
+    border-radius: 5%;
+    border: 1px solid white;
+}
+.custom-link{
+    color: #EEEEEE;
+}
+.custom-link:hover{
+    color: #EFE1D1;
+}
+
+.user-btn{
+    border-radius: 10% 0 0 10%;
+    border: 1px solid white;
+}
+.admin-btn{
+    border-radius: 0 10% 10% 0;
+    border: 1px solid white;
+}
+
+.questionArea{
+    background-color: #61677A;
+    padding: 2em;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+/* .active-btn{
+    background-color: #001C30;
+    border: 1px solid white;
+} */
+.answer{
+    background-color: #61677A;
+}
+
+.logout-btn{
+    position: absolute;
+    top:0;
+    right:0;
+}
+.clear-btn{
+    position: absolute;
+    top:0;
+    right:100px
+}
+.his-btn{
+    position: absolute;
+    top: 0px;
+    right: 189px;
+}
+.scrollHist{
+    height: 500px;
+    overflow: auto;
+}

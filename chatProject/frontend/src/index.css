@@ -1,0 +1,11 @@
+.chatArea{
+    border: 1px solid;
+    height: 70vh;
+    overflow: auto;
+}
+.questionArea{
+    border: 1px solid;
+    height: 30vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
